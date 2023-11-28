@@ -6,8 +6,8 @@ Cata i Oriol
 ![1700556616906](https://github.com/Aston-Martin33/Formula-1/assets/126663403/c8b3cc66-53ad-4a6f-a544-910cdd40fdd2)
 #### Continguts repositori
 Aquest repositori conté: 
-  *El codi del robot  
-  *L'esbós del robot  
-  *Els plànols del robot
+*El codi del robot  
+*L'esbós del robot  
+*Els plànols del robot
 
 
